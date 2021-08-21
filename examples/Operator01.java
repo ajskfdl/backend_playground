@@ -17,8 +17,8 @@ public class Main01 {
 		System.out.println( "12 * 8 = " + result3);
 		System.out.println( "12 / 8 = " + result4);
 		System.out.println( "12 % 8 = " + result5);
-    
-
+	}
+}
     
     
     
